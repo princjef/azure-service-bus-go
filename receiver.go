@@ -28,8 +28,8 @@ import (
 	"time"
 
 	"github.com/Azure/azure-amqp-common-go/v3"
-	"github.com/devigned/tab"
 	"github.com/Azure/go-amqp"
+	"github.com/devigned/tab"
 )
 
 type (
