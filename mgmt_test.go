@@ -26,8 +26,8 @@ import (
 	"encoding/xml"
 	"time"
 
-	"github.com/Azure/azure-service-bus-go/atom"
 	"github.com/Azure/go-autorest/autorest/date"
+	"github.com/princjef/azure-service-bus-go/atom"
 )
 
 func (suite *serviceBusSuite) TestFeedUnmarshal() {

@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/Azure/azure-amqp-common-go/v3/uuid"
-	"github.com/Azure/azure-service-bus-go"
 	"github.com/joho/godotenv"
+	servicebus "github.com/princjef/azure-service-bus-go"
 )
 
 func init() {

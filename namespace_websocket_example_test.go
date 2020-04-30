@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	servicebus "github.com/Azure/azure-service-bus-go"
+	servicebus "github.com/princjef/azure-service-bus-go"
 )
 
 func ExampleNamespaceWithWebSocket() {

@@ -12,7 +12,7 @@ import (
 	"github.com/Azure/go-autorest/autorest/to"
 	"github.com/devigned/tab"
 
-	"github.com/Azure/azure-service-bus-go/atom"
+	"github.com/princjef/azure-service-bus-go/atom"
 )
 
 type (

@@ -113,7 +113,7 @@ func startConsumerSpanFromContext(ctx context.Context, operationName string) (co
 
 func applyComponentInfo(span tab.Spanner) {
 	span.AddAttributes(
-		tab.StringAttribute("component", "github.com/Azure/azure-service-bus-go"),
+		tab.StringAttribute("component", "github.com/princjef/azure-service-bus-go"),
 		tab.StringAttribute("version", Version),
 	)
 	applyNetworkInfo(span)

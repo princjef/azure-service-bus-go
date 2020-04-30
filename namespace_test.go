@@ -29,8 +29,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Azure/azure-service-bus-go/internal/test"
 	"github.com/joho/godotenv"
+	"github.com/princjef/azure-service-bus-go/internal/test"
 	"github.com/stretchr/testify/suite"
 )
 

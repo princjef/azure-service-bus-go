@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Azure/azure-service-bus-go"
+	servicebus "github.com/princjef/azure-service-bus-go"
 )
 
 func ExampleMessageIterator() {

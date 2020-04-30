@@ -1,5 +1,8 @@
 # Change Log
 
+## `v0.10.3`
+- fix pathing
+
 ## `v0.10.2`
 - add support for sending and receiving custom annotations
 

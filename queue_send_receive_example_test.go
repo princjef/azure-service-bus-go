@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Azure/azure-service-bus-go"
+	servicebus "github.com/princjef/azure-service-bus-go"
 )
 
 func Example_queueSendAndReceive() {
